@@ -45,7 +45,7 @@ This project is a powerful and intelligent Streamlit-based web application that 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/TejaswiMahadev/ShopScribe.git
+git clone https://github.com/VARIKUNTLASAIMANOJ/ShopScribe
 cd ShopScribe
 ```
 ### 2.  Install Dependencies
